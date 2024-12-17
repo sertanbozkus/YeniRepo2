@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldLive", "HelloWorldLive\HelloWorldLive.csproj", "{ACFECAB5-6328-452D-85FE-CD1A83F102BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesLive", "VariablesLive\VariablesLive.csproj", "{6A46E9B0-8636-45CB-B0E7-3BB5B76874D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFECAB5-6328-452D-85FE-CD1A83F102BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFECAB5-6328-452D-85FE-CD1A83F102BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFECAB5-6328-452D-85FE-CD1A83F102BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFECAB5-6328-452D-85FE-CD1A83F102BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A46E9B0-8636-45CB-B0E7-3BB5B76874D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A46E9B0-8636-45CB-B0E7-3BB5B76874D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A46E9B0-8636-45CB-B0E7-3BB5B76874D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A46E9B0-8636-45CB-B0E7-3BB5B76874D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E0F271-1950-431E-8E79-F78EE3055087}
+	EndGlobalSection
+EndGlobal

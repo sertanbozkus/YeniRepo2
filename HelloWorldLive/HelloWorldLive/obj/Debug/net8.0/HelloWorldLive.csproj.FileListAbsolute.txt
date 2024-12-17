@@ -1,0 +1,14 @@
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\bin\Debug\net8.0\HelloWorldLive.exe
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\bin\Debug\net8.0\HelloWorldLive.deps.json
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\bin\Debug\net8.0\HelloWorldLive.runtimeconfig.json
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\bin\Debug\net8.0\HelloWorldLive.dll
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\bin\Debug\net8.0\HelloWorldLive.pdb
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.AssemblyInfoInputs.cache
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.AssemblyInfo.cs
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.csproj.CoreCompileInputs.cache
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.dll
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\refint\HelloWorldLive.dll
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.pdb
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\HelloWorldLive.genruntimeconfig.cache
+C:\Users\serta\source\repos\HelloWorldLive\HelloWorldLive\obj\Debug\net8.0\ref\HelloWorldLive.dll
